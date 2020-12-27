@@ -107,7 +107,7 @@ from tensorflow.keras.datasets.fashion_mnist import load_data
 (traindata, trainanswer), (testdata, testanswer) = load_data()
 ```
 
-2. 2. Build Dense layer
+2. Build Dense layer
 ```
 Model: "sequential"
 _________________________________________________________________
